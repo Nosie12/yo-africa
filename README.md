@@ -11,6 +11,7 @@
 ## What we learned
 
 ## What's next for Yo' Africa (Yongama Africa) "Yongamela ikusasa lakho."
+
 ## Project Story: Health & Well-being for All
 
 ### Inspiration
@@ -58,6 +59,17 @@ Building this project was not without its challenges:
 
 4. **Accuracy and Trust**: Providing accurate and trustworthy information was paramount. We established a rigorous review process involving health professionals to maintain the credibility of our content.
 
-### Conclusion
+---
 
-Our project aims to bridge the gap in health information and resources for South Africans, particularly in underserved communities. By leveraging traditional knowledge, modern technology, and community engagement, we strive to promote good health and well-being for all. The journey has been challenging but immensely rewarding, and we are committed to continually improving and expanding our services to make a lasting impact on the health and well-being of South Africans.
+## 👥 About the Team
+
+**Yo' Africa (Yongama Africa)** was developed by a passionate group of four young developers dedicated to improving health awareness and accessibility across African communities. This collaboration allowed each team member to contribute their unique strengths, ensuring a well-rounded and impactful final product.
+
+**Team Members:**
+
+- **[Nosipho Sithole]** — Firebase integration, mobile responsiveness, and layout structuring.
+- **[Mpilenhle Mtaka]** —  Front-end development , and data organization, contributed to newsletter planning .
+- **[Sinomtha Mzamo]** —  Led backend logic,  Content curation on indigenous plants, assisted with UI content placement and image sourcing.
+- **[Sbahle Shezi]** — Managed research, community outreach strategy, and collaborated on the Facebook engagement channel.
+
+> This repository highlights my personal contribution to the team and serves as a reflection of our shared goal to promote health and well-being in Africa.
