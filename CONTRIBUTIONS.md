@@ -6,13 +6,12 @@ This document outlines the individual contributions made by each team member dur
 
 ## 👩‍💻 Nosipho Sithole
 
-**Role**: Firebase Integration, Mobile Responsiveness, Layout Structuring, Front-End Development, API Integration
+**Role**: Firebase Integration, Mobile Responsiveness, Layout Structuring, and API Integration
 
 **Key Contributions**:
 - Integrated Firebase for data storage and app connectivity  
 - Developed and tested responsive layouts for mobile and tablet screens  
 - Structured the overall layout and component arrangement of the site  
-- Built front-end components and pages using HTML, CSS, and JavaScript  
 - Developed API integration for the symptom checker feature  
 - Assisted with page organization and performance optimization  
 - Helped prepare documentation for the final project submission  
