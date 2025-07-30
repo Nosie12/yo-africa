@@ -67,7 +67,7 @@ Building this project was not without its challenges:
 
 **Team Members:**
 
-- **[Nosipho Sithole(ME)]** — Firebase integration, mobile responsiveness, and layout structuring.
+- **[Nosipho Sithole]** — Firebase integration, mobile responsiveness, and layout structuring.
 - **[Mpilenhle Mtaka]** —  Front-end development , and data organization, contributed to newsletter planning .
 - **[Sinomtha Mzamo]** —  Led backend logic,  Content curation on indigenous plants, assisted with UI content placement and image sourcing.
 - **[Sbahle Shezi]** — Managed research, community outreach strategy, and collaborated on the Facebook engagement channel.
