@@ -72,4 +72,16 @@ Building this project was not without its challenges:
 - **[Sinomtha Mzamo]** —  Led backend logic,  Content curation on indigenous plants, assisted with UI content placement and image sourcing.
 - **[Sbahle Shezi]** — Managed research, community outreach strategy, and collaborated on the Facebook engagement channel.
 
+
+---
+
+## Original Project Repository
+
+This project is part of a collaborative team effort originally hosted in the GitHub repository of [Sinomtha Mzamo](https://github.com/SinomthaMzamo/yo-africa). 
+
+We are a team of four developers who contributed collectively to building **YoAfrica (Yongama Africa)**. This repository is a personal copy reflecting my contributions and involvement in the project.
+
+---
+
+
 > This repository highlights my personal contribution to the team and serves as a reflection of our shared goal to promote health and well-being in Africa.
